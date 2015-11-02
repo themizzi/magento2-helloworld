@@ -45,7 +45,7 @@ use Magento\Framework\View\Result\PageFactory;
 /**
  * Class Index
  *
- * @package TheMizzi\HelloWorld\Controller\Index
+ * @package TheMizzi\HelloWorld\Controller\Display
  * @author  Joe Mizzi <jmizzi@gorillagroup.com>
  */
 class Index extends Action
