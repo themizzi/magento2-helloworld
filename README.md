@@ -169,4 +169,4 @@ php bin/magento cache:flush --all
 
 You should now be able to visit http://myserver.com/helloworld/display (you do not need index as usual, though you can add it) and see the following:
 
-![](https://github.com/themizzi/magento2-hellworld/blob/master/assets/helloworld.png)
+![](https://raw.githubusercontent.com/themizzi/magento2-helloworld/master/assets/helloworld.png)
