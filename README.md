@@ -127,7 +127,7 @@ As stated above, our module will automatically look in view/frontend/templates f
 <h1>Hello World!</h1>
 ```
 
-### composer.json
+#### composer.json
 
 Magento 2 allows us to use composer to install modules. Here I have included a basic composer json. Once uploaded to a repository (like this one), you can add this repository to your projects composer json and require "themizzi/magento2-helloworld" to grab this module.
 
